@@ -1,5 +1,5 @@
 # Multi-Label-Topic-Classification-of-Tweet
-This is a group project in a Natural Language Processing (NLP) coursework, UEH university.
+This is a group project in a Natural Language Processing (NLP) coursework, UEH university. The goal of this project is to build a NLP model that can label tweets under certain topics.
 ## Project overview
 ### 1. Data acquisition
 - Using Tweepy, data are scrapped from Twitter from the following topics: 'Sony', 'politics', 'environment', 'technology', 'travel', 'sustainability', 'economy', 'social media', 'sport', 'music', 'photography', 'healthcare', 'education', 'Sony and politics', 'Sony and environment', 'Sony and technology', 'Sony and travel', 'Sony and sustainability', 'Sony and economy', 'Sony and social media', 'Sony and sport', 'Sony and music', 'Sony and photography'.
